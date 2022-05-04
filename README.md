@@ -1,0 +1,2 @@
+# ProgramForSteam
+So, I would like to introduce to you my first ever public project. It should be a program, that hacks steam achievements. The logic question is what is the difference btw your program and the SAM Picker. I would like to make the process of hacking fastier and also program should have the same concept as Steam Idler and some more. Also I want to make design really easy-to-rotate. I'll think about upgrading this program to the IDEAL 
